@@ -1,5 +1,5 @@
 sudo apt-get update
-sudo apt-get install -y vim screen ufw
+sudo apt-get install -y vim screen ufw git
 sudo apt-get upgrade -y
 
 
